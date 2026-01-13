@@ -29,7 +29,7 @@
         <telegrambots.version>4.4.0.1</telegrambots.version>
         <jsoup.version>1.12.1</jsoup.version>
         <lombok.version>1.18.8</lombok.version>
-        <commons-lang3.version>3.9</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
     </properties>
 
     <parent>
